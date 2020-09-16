@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Arltan Dordzhiev, i am 23. I graduated from Kalmyk state University with a bachelor's degree in mathematics and computer science. During my training, I learned programming languages such as Pascal, Delphi, and The latex mathematical text layout program. Here is a simple example of the code we were taught to write in Pascal: 
+My name is Arltan Dordzhiev, i am 23. I graduated from KalmSU with a bachelor's degree in mathematics and computer science. During my training, I learned programming languages such as Pascal, Delphi, and The latex mathematical text layout program. Here is a simple example of the code we were taught to write in Pascal: 
 ```
 var a, b, c, D, x1, x2, k: real;
 begin
